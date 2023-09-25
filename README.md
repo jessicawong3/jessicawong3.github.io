@@ -2,6 +2,12 @@
 # Jessica Wong
 ### This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
+
+## Activity 1
+![image](https://github.com/jessicawong3/jessicawong3.github.io/assets/71729026/964e28e5-a081-4565-8a97-3c11736ab06b)
+
+
+
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://varadbhogayata.github.io
