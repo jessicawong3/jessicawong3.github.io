@@ -15,6 +15,12 @@
 ![image](image-3.png)
 
 
+## Activity 3
+![image](image-4.png)
+![image](image-5.png)
+![image](image-6.png)
+
+
 
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
