@@ -5,6 +5,8 @@
 
 ## Activity 1
 ![image](https://github.com/jessicawong3/jessicawong3.github.io/assets/71729026/964e28e5-a081-4565-8a97-3c11736ab06b)
+![image](https://github.com/jessicawong3/jessicawong3.github.io/assets/71729026/e5e37e54-1090-4ff4-bb34-b7158360f80d)
+
 
 
 
