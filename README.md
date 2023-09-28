@@ -8,6 +8,13 @@
 ![image](https://github.com/jessicawong3/jessicawong3.github.io/assets/71729026/e5e37e54-1090-4ff4-bb34-b7158360f80d)
 
 
+## Activity 2
+![image](image.png)
+![image](image-1.png)
+![image](image-2.png)
+![image](image-3.png)
+
+
 
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
